@@ -745,7 +745,6 @@
       e.exports = l.p + "img/single.645ecef1.png";
     },
     1692: (e, a, l) => {
-        console.log('test');
       e.exports = l.p + "img/who we are.5c731f7e.jpg";
     },
   },
